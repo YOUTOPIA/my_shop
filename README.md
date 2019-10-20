@@ -1,11 +1,7 @@
 # my_shop
 온라인 의류 쇼핑몰 포트폴리오 입니다. (진행 중)
 # 개발환경
-Window OS
-Spring Framework4
-Java 1.8, JSP
-OracleSQL 11g
-JavaScript, JQuery
+Window OS, Spring Framework4, Java 1.8, JSP, OracleSQL 11g, JavaScript, JQuery \n
 HTML, CSS
 Bootstrap Template
 mybatis
